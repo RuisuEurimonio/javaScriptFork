@@ -1,2 +1,2 @@
-alert("Contenido Exclusivo");
+alert("Bienvenido a consulte su peso ideal");
 
